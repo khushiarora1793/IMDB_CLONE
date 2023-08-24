@@ -42,4 +42,4 @@ Check out the live demo of the application at [Click Here]( https://khushiarora1
 
 ## Authors
 
-- [@Khushi]()
+- [@Khushi](https://github.com/khushiarora1793)
