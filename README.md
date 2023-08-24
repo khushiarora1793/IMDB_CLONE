@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at [Click Here]()
+Check out the live demo of the application at [Click Here]( https://khushiarora1793.github.io/IMDB_CLONE/)
 
 ## Authors
 
